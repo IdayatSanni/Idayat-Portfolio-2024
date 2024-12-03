@@ -101,6 +101,12 @@ main {
   padding-top: 200px;
 }
 
+.portfolio-container {
+  z-index: 50;
+  height: 100vh;
+  margin-top: 100px;
+}
+
 .content {
   z-index: 50;
   height: 100vh;
